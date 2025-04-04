@@ -10,3 +10,10 @@
 
 **Mini Data Science Bootcamp 2023** <br>
 <img src = "Cert. Mini Data Science Bootcamp 2023.png" height = "380">  
+
+**R Crash Course** <br>
+<img src = "Cert. R Crash Course.png" height = "380">  
+
+**AI for All From Basics to GenAI Practice_AI for All From Basics to GenAI Practice** <br>
+<img src = "AI for All From Basics to GenAI Practice_AI for All From Basics to GenAI Practice.png" height = "380">  
+
